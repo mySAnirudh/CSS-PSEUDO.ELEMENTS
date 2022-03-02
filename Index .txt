@@ -1,0 +1,17 @@
+
+   **** PSEUDO ELEMENT ****
+
+   CSS pseudo-elements are used to add special effects to some selectors. You do 
+not need to use JavaScript or any other script to use those effects. A simple 
+syntax of pseudo-element is as follows:
+selector:pseudo-element {property: value}
+CSS classes can also be used with the pseudo-elements:
+selector.class:pseudo-element {property: value}
+The most commonly used pseudo-elements are as follows:
+Value Description
+:first-line Use this element to add special styles to the first line of the text 
+in a selector.
+:first-letter Use this element to add special style to the first letter of the text 
+in a selector.
+:before Use this element to insert some content before an element.
+:after Use this element to insert some content after an element.
